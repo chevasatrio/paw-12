@@ -8,7 +8,7 @@ lalu buka project di vscode, dan jalankan composer install
 composer install
 ```
 
-dan copy file .env.example menjadi .env
+Perintah di bawah untuk mengopy file .env.example menjadi .env
 ```bash
 cp .env.example .env
 ```
