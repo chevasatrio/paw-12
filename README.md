@@ -3,6 +3,11 @@
 git clone ....
 ```
 
+lalu buka project di vscode, dan jalankan composer install
+```bash
+composer install
+```
+
 dan copy file .env.example menjadi .env
 ```bash
 cp .env.example .env
@@ -14,11 +19,6 @@ Generate Key
 php artisan key:generate
 ```
 
-
-lalu buka project di vscode, dan jalankan composer install
-```bash
-composer install
-```
 
 lalu jalankan perintah di bawah
 ```bash
