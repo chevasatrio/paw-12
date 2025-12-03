@@ -33,6 +33,11 @@ jalankan `Laragon` atau `XAMPP` dan jalankan
 php artisan migrate
 ```
 
+Generate Key
+```bash
+php artisan key:generate
+```
+
 running project
 ```bash
 php artisan serve
